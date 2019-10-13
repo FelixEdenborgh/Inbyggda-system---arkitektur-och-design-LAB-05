@@ -20,6 +20,8 @@
 ||
 */
 #include <avr/io.h>
+#define _Set
+#define _CLEAR
 
 //----- I/O Macros -----
 //Macros to edit PORT, DDR and PIN
